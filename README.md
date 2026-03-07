@@ -34,7 +34,7 @@ Now assemble with `as` and link with `ld`, then run the resulting executable.
 ## TODO
 
 - [ ] Implement `cp`
-- [ ] Implement `cat`
+- [x] Implement `cat`
 - [ ] Implement `mv`
 - [ ] Implement `mkdir`
 - [ ] Implement `rm`
@@ -48,4 +48,3 @@ Now assemble with `as` and link with `ld`, then run the resulting executable.
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for the full license text.
-
