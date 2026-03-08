@@ -44,13 +44,13 @@ For empty files the assembly implementation is faster because it has almost no r
 
 ## TODO
 
-- [ ] Implement `cp`
+- [x] Implement `cp`
 - [x] Implement `cat`
-- [ ] Implement `mv`
-- [ ] Implement `mkdir`
-- [ ] Implement `rm`
+- [x] Implement `mv`
+- [x] Implement `mkdir`
+- [x] Implement `rm`
 - [ ] Implement `pwd`
-- [ ] Implement `rmdir`
+- [x] Implement `rmdir`
 - [ ] Implement `tee`
 - [ ] Implement `head`
 - [ ] Implement `tail`
