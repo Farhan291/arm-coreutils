@@ -49,7 +49,7 @@ For empty files the assembly implementation is faster because it has almost no r
 - [x] Implement `mv`
 - [x] Implement `mkdir`
 - [x] Implement `rm`
-- [ ] Implement `pwd`
+- [x] Implement `pwd`
 - [x] Implement `rmdir`
 - [ ] Implement `tee`
 - [ ] Implement `head`
