@@ -51,9 +51,9 @@ For empty files the assembly implementation is faster because it has almost no r
 - [x] Implement `rm`
 - [x] Implement `pwd`
 - [x] Implement `rmdir`
-- [ ] Implement `tee`
-- [ ] Implement `head`
-- [ ] Implement `tail`
+- [x] Implement `tee`
+- [x] Implement `head`
+- [x] Implement `tail`
 - [x] Implement `echo`
 
 ## License
